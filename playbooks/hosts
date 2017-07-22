@@ -1,1 +1,2 @@
-centosServer ansible_host= #Set ip here
+centosServer ansible_host=104.131.162.205
+ubuntuServer ansible_host=192.241.205.56
